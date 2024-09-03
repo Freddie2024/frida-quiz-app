@@ -76,10 +76,12 @@ nav {
     flex-direction: row;
     justify-content: space-evenly;
     list-style-type: none;
-   
 }
 
-
+.navbar {
+    position: fixed;
+    bottom: 0px;
+}
 
   .--one {
     
