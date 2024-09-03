@@ -10,7 +10,8 @@
 }
 
 .header {
-    position: sticky
+    position: sticky;
+    top: 0px;
 }
 
 h1 {
@@ -75,6 +76,7 @@ nav {
     flex-direction: row;
     justify-content: space-evenly;
     list-style-type: none;
+   
 }
 
 
