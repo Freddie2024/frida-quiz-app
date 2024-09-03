@@ -31,7 +31,9 @@ h1 {
     font-size: 1.5rem;
     box-shadow: 0px 0px 10px 0px;
     background-color: cadetblue;
-    margin: 10px;
+    margin: 20px;
+    text-align: center;
+    text-wrap: balance;
 }
   
   .--one {
