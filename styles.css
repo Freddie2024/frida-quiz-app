@@ -12,6 +12,7 @@
 .header {
     position: sticky;
     top: 0px;
+    z-index: 1;
 }
 
 h1 {
@@ -28,6 +29,9 @@ main {
     align-items: center;
     flex-direction: column;
     background-color: aquamarine;
+    padding: 20px;
+    margin: 2px;
+    margin-bottom: 30px;
   }
   
   .question-card {
@@ -47,7 +51,7 @@ main {
 }
 
 .card__bookmark {
-    border: 2px solid #8236ff;
+    border: 2px solid rgb(0, 123, 255);
     font-size: 1em;
     padding: 6px 12px;
     border-radius: 50%;
