@@ -43,6 +43,7 @@ h1 {
   
 .hidden-answer:hover {
     opacity: 1;
+    color: greenyellow;
 }
 
 
