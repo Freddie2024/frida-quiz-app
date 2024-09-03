@@ -1,0 +1,9 @@
+.title {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+    background-color: aliceblue;
+    height: 30px;
+    width: 100%;
+    padding: 20px;
+    margin: 2px;
+}
