@@ -37,9 +37,14 @@ h1 {
 }
 
 .hidden-answer {
-    display: none;
+    visibility: hidden;
 }
   
+.hidden-answer:hover {
+    ;
+}
+
+
   .--one {
     
   }
