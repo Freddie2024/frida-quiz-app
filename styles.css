@@ -67,7 +67,6 @@ main {
 nav {
     list-style: none;
     background-color: aliceblue;
-    height: 30px;
     width: 100%;
     padding: 20px;
     margin: 2px;
@@ -77,13 +76,9 @@ nav {
     justify-content: space-evenly;
     list-style-type: none;
 }
-/*
-ul {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    list-style-type: none;
-}
+
+
+
   .--one {
     
   }
