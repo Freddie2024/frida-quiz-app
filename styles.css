@@ -4,8 +4,6 @@
 }
 
 h1 {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: blue;
     background-color: aliceblue;
     height: 30px;
     width: 100%;
@@ -46,7 +44,21 @@ h1 {
     color: greenyellow;
 }
 
+nav {
+    list-style: none;
+    background-color: aliceblue;
+    height: 30px;
+    width: 100%;
+    padding: 20px;
+    margin: 2px;
+    text-align: center;
+}
 
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
   .--one {
     
   }
