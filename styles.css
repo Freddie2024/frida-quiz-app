@@ -72,8 +72,12 @@ nav {
     padding: 20px;
     margin: 2px;
     text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    list-style-type: none;
 }
-
+/*
 ul {
     display: flex;
     flex-direction: row;
