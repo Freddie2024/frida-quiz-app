@@ -29,6 +29,9 @@ main {
     align-items: center;
     flex-direction: column;
     background-color: aquamarine;
+    padding: 20px;
+    margin: 2px;
+    margin-bottom: 30px;
   }
   
   .question-card {
