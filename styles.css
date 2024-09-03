@@ -3,6 +3,16 @@
     color: blue
 }
 
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.header {
+    position: sticky
+}
+
 h1 {
     background-color: aliceblue;
     height: 30px;
