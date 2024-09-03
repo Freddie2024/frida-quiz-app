@@ -48,7 +48,7 @@ main {
 }
 
 .card__bookmark {
-    border: 2px solid #8236ff;
+    border: 2px solid rgb(0, 123, 255);
     font-size: 1em;
     padding: 6px 12px;
     border-radius: 50%;
