@@ -1,6 +1,7 @@
 * {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: blue
+    color: blue;
+   
 }
 
 *,
@@ -53,7 +54,6 @@ main {
 .card__bookmark {
     border: 2px solid rgb(0, 123, 255);
     font-size: 1em;
-    
     border-radius: 50%;
     box-shadow: rgba(0, 0, 0, 0.24) 0 3px 8px;
     position: absolute;
@@ -65,6 +65,10 @@ main {
   .question-card+.--two .card__bookmark {
     background-color: red;
   }
+
+.question {
+    padding: 0 20px 0 20px;
+}
 
 .hidden-answer {
     opacity: 0;
@@ -110,8 +114,10 @@ a:link {
     }
     }
 
-@media (min-width: 1200px) {
-    .question {
+/*
+
+    @media (min-width: 1200px) {
+    p .question {
         padding: 4%;
     }
     } 
