@@ -71,7 +71,7 @@ main {
 }
 
 .hidden-answer {
-    opacity: 0;
+    opacity: 0.25;
 }
   
 .hidden-answer:hover {
