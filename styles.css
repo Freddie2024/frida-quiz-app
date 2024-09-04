@@ -86,6 +86,7 @@ nav {
     flex-direction: row;
     justify-content: space-evenly;
     list-style-type: none;
+    text-decoration: none;
 }
 
 .navbar {
